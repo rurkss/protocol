@@ -17,7 +17,5 @@ The following providers are available:
 
 ### Official providers
 
-Gateway
----
 [Github Jobs](https://jobs.github.com/)
 [StackOverflow](https://stackoverflow.com/jobs)
